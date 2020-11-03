@@ -1,6 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
 .container {
   background-color: red;
   width: 900px;
-  height: 400px;
+  height: 450px;
   margin: auto;
+}
+
+.square {
+  width: 225px;
+  height: 225px;
+  border: 1px solid white;
+}
+
+.blu {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
 }
